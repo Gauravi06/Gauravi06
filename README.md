@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Gauravi 👋
 
-<!--
-**Gauravi06/Gauravi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 SY @ VIT Pune  
+💡 learning by building — figuring things out one project at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ I mainly work with
+🐍 Python · ⚛️ React · 🟩 Node.js · ⚡ FastAPI  
+🐘 PostgreSQL · 🍃 MongoDB  
+
+diving deeper into cloud & machine learning,  
+and hoping to explore more in cybersecurity.
+
+---
+
+### ✍️ beyond code and academics
+I write — poetry, essays, and half-built fantasy worlds.  
+usually at 2am. usually instead of studying.
+
+---
+
+### 🤝 would love to connect
+[LinkedIn](https://linkedin.com/in/gauravichakote) · [Email](mailto:chakotegauravi@gmail.com)

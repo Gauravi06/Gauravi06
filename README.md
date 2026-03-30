@@ -9,16 +9,14 @@
 🐍 Python · ⚛️ React · 🟩 Node.js · ⚡ FastAPI  
 🐘 PostgreSQL · 🍃 MongoDB  
 
-diving deeper into cloud & machine learning,  
+Diving deeper into cloud & machine learning,  
 and hoping to explore more in cybersecurity.
 
 ---
 
-### ✍️ beyond code and academics
+Beyond code and academics,
 I write — poetry, essays, and half-built fantasy worlds.  
 usually at 2am. usually instead of studying.
 
 ---
-
-### 🤝 would love to connect
 [LinkedIn](https://linkedin.com/in/gauravichakote) · [Email](mailto:chakotegauravi@gmail.com)

@@ -1,22 +1,28 @@
 # Hey, I'm Gauravi 👋
 
-🎓 SY @ VIT Pune  
-💡 learning by building — figuring things out one project at a time.
+🎓 Second-year @ VIT Pune  
+I like building things that actually work, and figuring them out along the way.
 
 ---
 
-### ⚙️ I mainly work with
-🐍 Python · ⚛️ React · 🟩 Node.js · ⚡ FastAPI  
-🐘 PostgreSQL · 🍃 MongoDB  
+### 🛠️ What I usually work with
+Python · FastAPI · React · Node.js  
+MongoDB · PostgreSQL  
 
-Diving deeper into cloud & machine learning,  
-and hoping to explore more in cybersecurity.
+Mostly working around full-stack apps (MERN) and backend systems.
 
 ---
 
-Beyond code and academics,
-I write — poetry, essays, and half-built fantasy worlds.  
+Right now I am
+Exploring how to build smarter apps,
+things that don’t just run, but *think a little*.
+
+---
+
+Outside academics,  
+I write — poetry, essays, and slowly growing fantasy worlds.  
 usually at 2am. usually instead of studying.
 
 ---
+
 [LinkedIn](https://linkedin.com/in/gauravichakote) · [Email](mailto:chakotegauravi@gmail.com)
